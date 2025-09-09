@@ -57,3 +57,6 @@ jest-html-reporters-*.json
 
 .vercel
 vercel.json
+
+# Prisma SQLite database
+prisma/dev.db
