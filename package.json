@@ -27,10 +27,6 @@
     "yup": "^1.7.0"
   },
   "devDependencies": {
-    "eslint": "^8.57.1",
-    "eslint-config-airbnb-base": "^15.0.0",
-    "eslint-plugin-import": "^2.32.0",
-    "globals": "^16.3.0",
     "nodemon": "^3.1.10",
     "prisma": "^6.15.0"
   }
